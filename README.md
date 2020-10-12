@@ -1,5 +1,5 @@
 # NLP-Task
-Done in Jupyter Notebook
+Done in Jupyter Notebook 
 
 Steps :
 1.Create a new folder and download this git.
@@ -10,7 +10,8 @@ Steps :
 6.This will take input from \NewData.txt , run the code.
 7.You will get output.
 
-Note: This is not the accurate / Final one. 
+#. <font color="#330000"> <b>Note:</b> This is not the accurate / Final one </font>
+#- ![#330000](https://via.placeholder.com/15/f03c15/000000?text=This is not the accurate / Final one ) `#330000`
 
 Identify Question Type: Given a question, the aim is to identify the category it belongs to. The four categories to handle for this assignment are : Who, What, When, Affirmation(yes/no).
 Label any sentence that does not fall in any of the above four as "Unknown" type.
