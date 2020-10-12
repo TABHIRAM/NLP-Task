@@ -1,4 +1,16 @@
 # NLP-Task
+Done in Jupyter Notebook
+
+Steps :
+1.Create a new folder and download this git.
+2.Open Jupyter Notebook /Jupyter Lab 
+3.In Jupyter Notebook /Jupyter Lab,Run FirstFile.ipynb It will take imput file as \username\LabelledData.txt [Change the path to your system path/directory]
+4.The result will be saved at path \username\NewData.txt [Clear the data before Executing file.] 
+5.Now open SecondFile.ipynb [Change the path to your system path/directory]
+6.This will take input from \NewData.txt , run the code.
+7.You will get output.
+
+Note: This is not the accurate / Final one. 
 
 Identify Question Type: Given a question, the aim is to identify the category it belongs to. The four categories to handle for this assignment are : Who, What, When, Affirmation(yes/no).
 Label any sentence that does not fall in any of the above four as "Unknown" type.
